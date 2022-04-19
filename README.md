@@ -5,9 +5,9 @@
 
 
 
-- 🔭 I’m currently working on [Alpha](https://alphanightly.netlify.app)
+- 🔭 I’m currently working on nothing
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Svelte**
 
 - 💬 Ask me about **Node.js , Electron , Express , Discord.js**
 
